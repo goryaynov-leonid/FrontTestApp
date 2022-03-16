@@ -1,0 +1,23 @@
+body {
+    color: red;
+}
+
+[href] {
+    text-decoration: none;
+}
+
+[href]:visited {
+    color: red;
+}
+
+li:hover{
+    cursor:n-resize;
+}
+
+img {
+    height: 1000px;
+    width: 500px;;
+    object-fit:contain;
+    background-image: url(cursor.png);
+    background-size: ;
+}
