@@ -19,5 +19,13 @@ img {
     width: 500px;;
     object-fit:contain;
     background-image: url(cursor.png);
-    background-size: ;
+}
+
+.point{
+    position: absolute;
+    top:100px;
+    width: 10px;
+    height: 10px;
+    background-color: red;
+    border-radius: 5px;
 }
